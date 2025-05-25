@@ -146,5 +146,10 @@ Personal Access Token을 비밀번호 대신 입력합니다.
 ---
 
 ## 📸 스크린샷
+![image](https://github.com/user-attachments/assets/bf09687d-77a1-4686-b6eb-387787519453)
+![image](https://github.com/user-attachments/assets/56f5d0d7-97da-4c3d-a699-98853a8690d5)
+![image](https://github.com/user-attachments/assets/01d9de36-a5ad-405e-8ed7-3265ed2180b7)
+![image](https://github.com/user-attachments/assets/7566ce39-f349-4f46-8930-2f206a9c0c3b)
+![image](https://github.com/user-attachments/assets/99504ad6-a06d-40ee-bfea-beb5109d4d29)
 
 
